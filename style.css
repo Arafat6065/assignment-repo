@@ -1,0 +1,33 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+   
+}
+.flexible-contant{
+    display: flex;
+}
+span{
+    color: darkgoldenrod;
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+}
+.half-width img{
+    width:90%;
+    
+}
+h2{
+    font-size: 50px;
+    font-weight:900px;
+}
+.another{
+   padding-top: 180px;
+  
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image:linear-gradient(rgb(205, 92, 92),rgb(128, 128, 0));
+    padding: 10px 20px;
+    border-radius: 30px;
+}
