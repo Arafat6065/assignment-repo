@@ -21,7 +21,7 @@ h2{
     font-weight:900px;
 }
 .another{
-   padding-top: 180px;
+   padding-top: 150px;
   
 }
 .link-button{
@@ -30,4 +30,10 @@ h2{
     background-image:linear-gradient(rgb(205, 92, 92),rgb(128, 128, 0));
     padding: 10px 20px;
     border-radius: 30px;
+}
+.bg-img{
+    background-image: url(./7.png);
+}
+#size{
+    height: 600px;
 }
