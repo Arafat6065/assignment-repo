@@ -57,3 +57,14 @@ h2{
     padding-top: 20px;
     
 }
+footer{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+}
+#last-footer{
+    color: gray;
+}
+#pera{
+    color: white;
+}
